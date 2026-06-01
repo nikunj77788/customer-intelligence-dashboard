@@ -77,30 +77,6 @@ Customer-level profitability analysis helps identify opportunities to improve ma
 
 ---
 
-## 📷 Dashboard Preview
-
-### Customer Intelligence Dashboard
-
-(Add dashboard screenshot here)
-
-### Customer Segment Performance
-
-(Add screenshot here)
-
-### Top Customers
-
-(Add screenshot here)
-
-### Customer Concentration Analysis
-
-(Add screenshot here)
-
-### Customer Value Trend
-
-(Add screenshot here)
-
----
-
 ## 🎯 Skills Demonstrated
 
 * Customer Analytics
